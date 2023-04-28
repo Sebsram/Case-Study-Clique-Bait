@@ -9,11 +9,13 @@ In this case study - you are required to support Danny’s vision and analyse hi
 
 # Available Data
 **Users:**
+
 Customers who visit the Clique Bait website are tagged via their cookie_id.
 
 ![Users](https://user-images.githubusercontent.com/130475600/235172507-9296fb6b-f043-43c5-a64a-89fe91af6ceb.PNG)
 
 **Events:**
+
 Customer visits are logged in this events table at a cookie_id level and the event_type and page_id values can be used to join onto relevant satellite tables to obtain further information about each event.
 
 The sequence_number is used to order the events within each visit.
@@ -21,21 +23,25 @@ The sequence_number is used to order the events within each visit.
 ![Events](https://user-images.githubusercontent.com/130475600/235172920-5931f89c-350b-42fd-8b5a-a3cde0d10a74.PNG)
 
 **Event Identifier:**
+
 The event_identifier table shows the types of events which are captured by Clique Bait’s digital data systems.
 
 ![ei](https://user-images.githubusercontent.com/130475600/235173422-76e4eadb-a5d9-4c5b-8c1a-cfdc1371d61a.PNG)
 
 **Campaign Identifier:**
+
 This table shows information for the 3 campaigns that Clique Bait has ran on their website so far in 2020.
 
 ![ci](https://user-images.githubusercontent.com/130475600/235173622-cd9543d3-1982-4c97-8807-ca59813a6b0c.PNG)
 
-**Pahe Hierarchy:**
+**Page Hierarchy:**
+
 This table lists all of the pages on the Clique Bait website which are tagged and have data passing through from user interaction events.
 
 ![page](https://user-images.githubusercontent.com/130475600/235173719-3455c94a-d6d9-4fd6-8268-bc0a850aabb7.PNG)
 
-#Questions
+# Questions
+
 **Digital Analysis:**
 
 1. How many users are there?
@@ -48,6 +54,7 @@ This table lists all of the pages on the Clique Bait website which are tagged an
 8. What is the number of views and cart adds for each product category?
 
 **Product funnel analysis:**
+
 Using a single SQL query - create a new output table which has the following details:
 
 - How many times was each product viewed?
