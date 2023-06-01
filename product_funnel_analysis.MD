@@ -37,10 +37,12 @@ For this part of the project, we only need to use two of the tables available. E
 Use your 2 new output tables - answer the following questions:
 
 1. Which product had the most views, cart adds and purchases? 
-A: **Oysters had the most views. Lobster had the most cart adds and purchases.
+A: **Oysters had the most views. Lobster had the most cart adds and purchases.**
 2. Which product was most likely to be abandoned?
 A: **Fish is the most likely to be abandoned**
 3. Which product had the highest view to purchase percentage?
+
 ![b3](https://github.com/Sebsram/Case-Study-Clique-Bait/assets/130475600/e0dd00d5-2b4c-4a82-9f3d-707f28f89878
+
 A: **Lobsters had the highest view to purchase percentage**
 
