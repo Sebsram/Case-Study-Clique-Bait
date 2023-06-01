@@ -42,7 +42,7 @@ A: **Oysters had the most views. Lobster had the most cart adds and purchases.**
 A: **Fish is the most likely to be abandoned**
 3. Which product had the highest view to purchase percentage?
 
-![b3](https://github.com/Sebsram/Case-Study-Clique-Bait/assets/130475600/e0dd00d5-2b4c-4a82-9f3d-707f28f89878
+![b3](https://github.com/Sebsram/Case-Study-Clique-Bait/assets/130475600/e0dd00d5-2b4c-4a82-9f3d-707f28f89878)
 
 A: **Lobsters had the highest view to purchase percentage**
 
